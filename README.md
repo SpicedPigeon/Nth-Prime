@@ -1,5 +1,5 @@
 # Nth-Prime
-Calculating the nth-prime based on wormell's formular
+Calculating the nth-prime based on wormell's formular in Assembler and C
 
 Code in Projekt->PrimeCalculationAssembler->wormell.S
 all done in assembler and a bit in c
